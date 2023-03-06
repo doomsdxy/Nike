@@ -17,6 +17,7 @@ ul {
 body {
     font-family: 'Roboto';
     user-select: none;
+    background: darkblue;
 }
 
 .container {
