@@ -17,7 +17,6 @@ ul {
 body {
     font-family: 'Roboto';
     user-select: none;
-    background: darkblue;
 }
 
 .container {
@@ -90,6 +89,7 @@ body {
 
 .cards {
     background: #EBEBEB;
+    background: #544294;
 }
 
 .cards-content {
